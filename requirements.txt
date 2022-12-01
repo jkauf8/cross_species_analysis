@@ -13,3 +13,4 @@ cmocean == 2.0
 scprep == 1.2.1
 regex == 2022.7.9
 scipy == 1.9.3
+plotnine == 0.10.1
